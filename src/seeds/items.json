@@ -1,0 +1,16 @@
+[
+        {
+            "id": 1,
+            "title": "archerh",
+            "desc": "des",
+            "lvl": 4,
+            "img": "https://tocode.ru/static/uploads/courses/3/clash-of-clans-images/barbarian.png"
+        },
+        {
+            "id": 2,
+            "title": "deos",
+            "desc": "des deos",
+            "lvl": 8,
+            "img": "https://tocode.ru/static/uploads/courses/3/clash-of-clans-images/barbarian.png"
+        }
+]
